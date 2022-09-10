@@ -1,6 +1,6 @@
 # StaticKeywordShortVid
 
-Source code used in video 'everything you need to know about the static keyword in c#'
+Source code used in video 'Everything you need to know about the static keyword in c#'
 
 Video (youtube short):
 https://www.youtube.com/watch?v=kimcxI1RFSI&feature=youtu.be
