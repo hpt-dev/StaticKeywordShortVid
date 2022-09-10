@@ -1,0 +1,15 @@
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\bin\Debug\net6.0\StaticTutorial.exe
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\bin\Debug\net6.0\StaticTutorial.deps.json
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\bin\Debug\net6.0\StaticTutorial.runtimeconfig.json
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\bin\Debug\net6.0\StaticTutorial.dll
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\bin\Debug\net6.0\StaticTutorial.pdb
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.csproj.AssemblyReference.cache
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.AssemblyInfoInputs.cache
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.AssemblyInfo.cs
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.csproj.CoreCompileInputs.cache
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.dll
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\refint\StaticTutorial.dll
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.pdb
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\StaticTutorial.genruntimeconfig.cache
+C:\Users\hrtd\Source\Repos\StaticTutorial\StaticTutorial\obj\Debug\net6.0\ref\StaticTutorial.dll
